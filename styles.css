@@ -203,13 +203,12 @@ nav a.active {
 }
 
 .featured-product-image {
-  background: linear-gradient(135deg, #dce6f0 0%, #c5d5e5 100%);
+  background: #ffffff;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 2rem;
+  padding: 0;
   min-height: 280px;
-  font-size: 5rem;
   overflow: hidden;
 }
 
